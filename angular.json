@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-css-grid"
+    }
+  },
+  "defaultProject": "angular-css-grid",
+  "cli": {
+    "analytics": "3f45135c-0138-4ea2-a38d-f3eb67bae7be"
+  }
 }

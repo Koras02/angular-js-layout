@@ -1,0 +1,32 @@
+@charset "utf-8";
+
+
+header{
+    width:500px;height:100px;
+    font:bold 18px/19px arial;
+    margin-top:12px;
+    text-align:left;
+    margin-left:20px;
+    float:left;
+    text-decoration:none;
+}
+
+header > a{
+    text-decoration:none;
+}
+header a:hover{
+  background-color:yellow;
+  text-decoration: none;
+}
+
+h1{
+    text-align:left;
+    margin-left:12px;
+    text-decoration:none;
+}
+
+#search{
+  display:initial;
+  margin-left:1300px;
+}
+
